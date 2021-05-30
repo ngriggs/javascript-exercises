@@ -25,3 +25,4 @@ Solutions for these exercises can be found in this repo on the 'solutions' branc
 ## A quick note!
 
 The exercise `generator-exercise` is not actually an exercise; it is a script that generates exercises. It was created to help efficiently write these exercises.
+# javascript-exercises
